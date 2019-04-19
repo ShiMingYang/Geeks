@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="#22000000"
+    android:id="@+id/ll"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+ <EditText
+     android:id="@+id/ed1"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:hint="创建"/>
+ <EditText
+     android:id="@+id/ed2"
+     android:layout_below="@id/ed1"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:hint="加入"/>
+ <Button
+     android:id="@+id/creat"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:text="创建"/>
+ <Button android:id="@+id/join"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:text="加入"/>
+</LinearLayout>
