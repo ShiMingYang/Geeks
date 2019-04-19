@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Small_GeekNews</string>
+    <string name="info">资讯</string>
+    <string name="geek">知乎日报</string>
+    <string name="vtex">V2EX</string>
+    <string name="gank">干货集中营</string>
+    <string name="gold">稀土掘金</string>
+    <string name="wechat">微信精选</string>
+    <string name="follow">收藏</string>
+    <string name="set">设置</string>
+    <string name="main">关于</string>
+    <string name="chooes">选项</string>
+    <string name="daynews">日报</string>
+    <string name="zhuanlan">专栏</string>
+    <string name="hot">热门</string>
+    <string name="sure">确定</string>
+</resources>
